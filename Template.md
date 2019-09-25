@@ -11,7 +11,7 @@ A paragraph of the for describing the test steps and assertions. Use bullets or 
 
 **Reference(s)**: 
 
-* References to the requirements. we should agree on abbreviations and collect them as a table in [README.md](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/README)
+* References to the requirements. we should agree on abbreviations and collect them as a table in [README](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/README.md)
 
 **Test type**: Automated or Manual
 
@@ -21,7 +21,7 @@ Any additional notes. We can also use this for open questions during drafting.
 
 ## Contextual XPath references
 
-The namespace prefixes used as described in [README.md](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/README#namespaces).
+The namespace prefixes used as described in [README](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/README.md#namespaces).
 
 Abbreviation                                               |  XPath expression
 ---------------------------------------------------------- | -------------------------------------------------------------------------
