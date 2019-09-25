@@ -4,7 +4,7 @@ The specification specifies the following conformance classes:
 
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
-| [WCS Core](./wcs-core) | OGC Web Service (WCS 2.0) |
+| [WCS Core](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core) | OGC Web Service (WCS 2.0) |
 
 ## Rules for HTTP requests
 

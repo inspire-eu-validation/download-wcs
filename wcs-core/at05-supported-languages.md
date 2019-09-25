@@ -18,7 +18,7 @@ This requirement is satisfied when requirement [at-08](./at08-list-supported-lan
 
 ## Contextual XPath references
 
-The namespace prefixes used as described in [README](./README.md#namespaces).
+The namespace prefixes used as described in [README](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/README#namespaces).
 
 | Abbreviation                                               |  XPath expression (relative to /wcs:Capabilities) |
 | --------------------------------------------------- | -------------------------------------------------------------- |

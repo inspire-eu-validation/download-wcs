@@ -38,28 +38,28 @@ Based on requirement numbering in [INS TG WCS](#ref_INS_TG_WCS).
 | Req#   | Description                          | Covered by test(s)                 |
 | ------ | ------------------------------------ | ---------------------------------- |
 | 1    | Conform to the OGC WCS 2.0 Conformance Class 'core WCS'| [OGC WCS](#ref_OGC_WCS) Core WCS
-| 2    | Protocol bindings | [at02-protocol-bindings](./at02-protocol-bindings.md)
-| 3    | Natural language fields | [at03-natural-language-fields](./at03-natural-language-fields.md)
-| 4    | XML schema validation | [at04-xml-schema-validation](./at04-xml-schema-validation.md)
-| 5    | Supported languages | [at05-supported-languages](./at05-supported-languages.md)
-| 6    | Mandatory metadata elements | [at06-mandatory-metadata-elements](./at06-mandatory-metadata-elements.md)
-| 7    | Language request empty and unsupported | [at07-language-request-empty-unsupported](./at07-language-request-empty-unsupported.md)
-| 8    | List of supported languages | [at08-list-supported-languages](./at08-list-supported-languages.md)
-| 9    | Response language | [at09-response-language](./at09-response-language.md)
+| 2    | Protocol bindings | [at02-protocol-bindings](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at02-protocol-bindings)
+| 3    | Natural language fields | [at03-natural-language-fields](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at03-natural-language-fields)
+| 4    | XML schema validation | [at04-xml-schema-validation](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at04-xml-schema-validation)
+| 5    | Supported languages | [at05-supported-languages](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at05-supported-languages)
+| 6    | Mandatory metadata elements | [at06-mandatory-metadata-elements](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at06-mandatory-metadata-elements)
+| 7    | Language request empty and unsupported | [at07-language-request-empty-unsupported](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at07-language-request-empty-unsupported)
+| 8    | List of supported languages | [at08-list-supported-languages](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at08-list-supported-languages)
+| 9    | Response language | [at09-response-language](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at09-response-language)
 
 ## Tests
 The Conformance class "TG Conformance WCS-MAN: Mandatory Download Operations" contains the following tests:
 
 | Identifier                                                        | Type   | Status   |
 | ----------------------------------------------------------------- | -------- | -------- |
-| [at02-protocol-bindings](./at02-protocol-bindings.md) | Automated | ready for review |
-| [at03-natural-language-fields](./at03-natural-language-fields.md) | Manual | ready for review |
-| [at04-xml-schema-validation](./at04-xml-schema-validation.md) | Automated | ready for review |
-| [at05-supported-languages](./at05-supported-languages.md) | None | ready for review |
-| [at06-mandatory-metadata-elements](./at06-mandatory-metadata-elements.md) | Automated | ready for review |
-| [at07-language-request-empty-unsupported](./at07-language-request-empty-unsupported.md) | Automated | ready for review |
-| [at08-list-supported-languages](./at08-list-supported-languages.md) | Automated | ready for review |
-| [at09-response-language](./at09-response-language.md) | Automated | ready for review |
+| [at02-protocol-bindings](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at02-protocol-bindings) | Automated | ready for review |
+| [at03-natural-language-fields](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at03-natural-language-fields) | Manual | ready for review |
+| [at04-xml-schema-validation](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at04-xml-schema-validation) | Automated | ready for review |
+| [at05-supported-languages](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at05-supported-languages) | None | ready for review |
+| [at06-mandatory-metadata-elements](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at06-mandatory-metadata-elements) | Automated | ready for review |
+| [at07-language-request-empty-unsupported](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at07-language-request-empty-unsupported) | Automated | ready for review |
+| [at08-list-supported-languages](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at08-list-supported-languages) | Automated | ready for review |
+| [at09-response-language](http://inspire.ec.europa.eu/id/ats/download-wcs/1.0/wcs-core/at09-response-language) | Automated | ready for review |
 
 ## XML namespace prefixes <a name="namespaces"></a>
 
