@@ -6,9 +6,8 @@
 
 **Test method**
 
-* Send a GetCapabilities request to the service endpoint with a supported language as parameter. Into the response:
-
-	* Check manually that the Titles and Abstracts fields are in the requested language.
+* In case a client provides a language as part of a request, send a GetCapabilities request to the service endpoint with a supported language as parameter. 
+	* Into the response: Check manually that the Titles and Abstracts fields are in the requested language.
 
 **Reference(s)**
 
